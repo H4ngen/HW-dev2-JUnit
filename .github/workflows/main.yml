@@ -1,4 +1,4 @@
-name: HW-dev2-JUnit
+name: JavaDev-Hw-16
 on:
   push:
     branches: [ "master" ]
